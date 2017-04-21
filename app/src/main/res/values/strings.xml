@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Developer</string>
+    <string name="internet">No Internet Connection. Please make sure your device is connected to the Intenet</string>
+</resources>
